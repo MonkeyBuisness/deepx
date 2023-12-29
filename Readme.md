@@ -79,7 +79,7 @@ func main() {
 
 ```
 
-> The code is documented, so refer to it for additional functionality.
+> The library code is documented, so refer to it for additional functionality.
 
 Run your program:
 
